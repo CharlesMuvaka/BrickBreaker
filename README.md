@@ -8,8 +8,7 @@ The game ends when the ball hits the bottom surface while the player goes to ano
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-![Screenshot (6)](https://github.com/CharlesMuvaka/BrickBreaker/assets/98308015/c609ecc5-833b-4232-bafa-ed2142ef28f5)
+![Screenshot (6)](https://github.com/CharlesMuvaka/BrickBreaker/assets/98308015/bad3812f-8c00-48a3-a68c-c0ab931fbaf1)
 
 ### Prerequisites
 
